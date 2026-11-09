@@ -1,0 +1,4 @@
+$ ./run.sh 19
+Enter list values separated by spaces: 10 20 30 40 50
+Original: 10 -> 20 -> 30 -> 40 -> 50 -> null
+Reversed: 50 -> 40 -> 30 -> 20 -> 10 -> null

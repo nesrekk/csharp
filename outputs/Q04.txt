@@ -1,0 +1,9 @@
+$ ./run.sh 4
+Enter numbers separated by spaces: 12 45 7 45 33 9
+Largest: 45
+Second largest: 33
+
+$ ./run.sh 4
+Enter numbers separated by spaces: 8 8 8
+Largest: 8
+There is no second largest (all values are equal)

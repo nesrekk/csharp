@@ -1,0 +1,3 @@
+$ ./run.sh 20
+List 1 -> 2 -> 3 -> 4 -> null : No cycle
+List 1 -> 2 -> 3 -> 4 -> back to 2 : Cycle found

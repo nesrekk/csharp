@@ -1,0 +1,9 @@
+$ ./run.sh 17
+Enter first string: waterbottle
+Enter second string: erbottlewat
+"erbottlewat" is a rotation of "waterbottle"
+
+$ ./run.sh 17
+Enter first string: hello
+Enter second string: olleh
+"olleh" is not a rotation of "hello"

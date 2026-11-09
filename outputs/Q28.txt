@@ -1,0 +1,3 @@
+$ ./run.sh 28
+Tree 1: Valid BST
+Tree 2: Not a valid BST

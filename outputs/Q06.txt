@@ -1,0 +1,11 @@
+$ ./run.sh 6
+Enter an expression: {[()()]}
+Balanced
+
+$ ./run.sh 6
+Enter an expression: ([)]
+Not balanced
+
+$ ./run.sh 6
+Enter an expression: ((
+Not balanced

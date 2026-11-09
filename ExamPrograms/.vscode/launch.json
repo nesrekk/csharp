@@ -1,0 +1,16 @@
+{
+  // F5 (or Run > Start Debugging) runs the question file that is open, e.g. Q01_Fibonacci.cs.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run open question (Qxx file)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build-current-question",
+      "program": "${fileDirname}/bin/q/${fileBasenameNoExtension}/ExamPrograms.dll",
+      "cwd": "${fileDirname}",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    }
+  ]
+}

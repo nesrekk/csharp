@@ -1,0 +1,4 @@
+bin/
+obj/
+*.buildlog
+.DS_Store

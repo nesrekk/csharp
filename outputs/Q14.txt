@@ -1,0 +1,11 @@
+$ ./run.sh 14
+Enter sorted numbers separated by spaces: 2 5 8 12 16 23 38 56 72 91
+Enter number to search: 23
+Iterative: found 23 at index 5
+Recursive: found 23 at index 5
+
+$ ./run.sh 14
+Enter sorted numbers separated by spaces: 2 5 8 12 16 23 38 56 72 91
+Enter number to search: 40
+Iterative: 40 not found
+Recursive: 40 not found

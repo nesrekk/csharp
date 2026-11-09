@@ -1,0 +1,14 @@
+$ ./run.sh 8
+Enter numbers separated by spaces: 2 7 11 15
+Enter target sum: 9
+Indices: [0, 1]  (2 + 7 = 9)
+
+$ ./run.sh 8
+Enter numbers separated by spaces: 3 2 4
+Enter target sum: 6
+Indices: [1, 2]  (2 + 4 = 6)
+
+$ ./run.sh 8
+Enter numbers separated by spaces: 1 2 3
+Enter target sum: 10
+No two numbers add up to 10

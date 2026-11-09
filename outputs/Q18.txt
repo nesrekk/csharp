@@ -1,0 +1,7 @@
+$ ./run.sh 18
+Enter a string: aabcccccaaa
+Compressed: a2b1c5a3
+
+$ ./run.sh 18
+Enter a string: abc
+Compressed: a1b1c1

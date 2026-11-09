@@ -1,0 +1,3 @@
+$ ./run.sh 7
+Enter a sentence: C# is a modern programming language
+Reversed: language programming modern a is C#

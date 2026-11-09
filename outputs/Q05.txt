@@ -1,0 +1,14 @@
+$ ./run.sh 5
+Enter first string: Listen
+Enter second string: Silent
+The strings are anagrams
+
+$ ./run.sh 5
+Enter first string: Dormitory
+Enter second string: dirty room
+The strings are anagrams
+
+$ ./run.sh 5
+Enter first string: hello
+Enter second string: world
+The strings are not anagrams

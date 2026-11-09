@@ -1,0 +1,9 @@
+$ ./run.sh 23
+Enter numbers separated by spaces: 1 2 3 4 5 6 7
+Rotate right by k = 3
+Rotated: 5 6 7 1 2 3 4
+
+$ ./run.sh 23
+Enter numbers separated by spaces: 1 2 3 4 5 6 7
+Rotate right by k = 10
+Rotated: 5 6 7 1 2 3 4

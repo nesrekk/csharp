@@ -1,0 +1,9 @@
+$ ./run.sh 22
+Enter a string: abcabcbb
+Longest substring without repeating characters: "abc"
+Length: 3
+
+$ ./run.sh 22
+Enter a string: pwwkew
+Longest substring without repeating characters: "wke"
+Length: 3

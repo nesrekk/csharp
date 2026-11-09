@@ -1,0 +1,4 @@
+$ ./run.sh 16
+Enter first sorted array: 1 4 7 10
+Enter second sorted array: 2 3 8 12 15
+Merged: 1 2 3 4 7 8 10 12 15

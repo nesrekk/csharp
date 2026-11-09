@@ -1,0 +1,4 @@
+$ ./run.sh 24
+Enter first array: 1 2 2 3 4 5
+Enter second array: 2 2 4 6 8
+Common elements: 2 4

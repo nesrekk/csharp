@@ -1,0 +1,9 @@
+$ ./run.sh 21
+Enter a string: abc
+Permutations:
+abc
+acb
+bac
+bca
+cab
+cba

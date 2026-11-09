@@ -1,0 +1,9 @@
+$ ./run.sh 29
+Enter an integer: 29
+Binary: 11101
+Number of set bits: 4
+
+$ ./run.sh 29
+Enter an integer: -1
+Binary: 11111111111111111111111111111111
+Number of set bits: 32

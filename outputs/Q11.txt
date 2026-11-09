@@ -1,0 +1,7 @@
+$ ./run.sh 11
+Enter a string: swiss
+First non-repeating character: 'w' at index 1
+
+$ ./run.sh 11
+Enter a string: aabb
+Every character repeats

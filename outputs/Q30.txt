@@ -1,0 +1,19 @@
+$ ./run.sh 30
+Produced 1
+        Consumed 1
+Produced 2
+Produced 3
+        Consumed 2
+Produced 4
+Produced 5
+Produced 6
+        Consumed 3
+Produced 7
+        Consumed 4
+Produced 8
+        Consumed 5
+Producer finished
+        Consumed 6
+        Consumed 7
+        Consumed 8
+Consumer finished, sum of items = 36

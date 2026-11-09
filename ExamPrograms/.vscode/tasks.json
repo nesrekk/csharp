@@ -1,0 +1,20 @@
+{
+  // Builds ONLY the file that is open in the editor (each Qxx file has its own Main).
+  // Separate obj/bin folder per question, so one question's build can never be reused for another.
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build-current-question",
+      "type": "process",
+      "command": "dotnet",
+      "args": [
+        "build", "${fileDirname}/ExamPrograms.csproj", "-nologo", "-v", "q",
+        "-p:StartupObject=${fileBasenameNoExtension}.Program",
+        "-p:IntermediateOutputPath=obj/q/${fileBasenameNoExtension}/",
+        "-o", "${fileDirname}/bin/q/${fileBasenameNoExtension}"
+      ],
+      "problemMatcher": "$msCompile",
+      "group": { "kind": "build", "isDefault": true }
+    }
+  ]
+}

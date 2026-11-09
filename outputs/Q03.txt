@@ -1,0 +1,7 @@
+$ ./run.sh 3
+Enter a string: Madam, I'm Adam
+"Madam, I'm Adam" is a palindrome
+
+$ ./run.sh 3
+Enter a string: hello
+"hello" is not a palindrome

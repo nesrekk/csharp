@@ -1,0 +1,7 @@
+$ ./run.sh 13
+Enter an integer: 153
+153 is an Armstrong number
+
+$ ./run.sh 13
+Enter an integer: 125
+125 is not an Armstrong number

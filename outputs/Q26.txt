@@ -1,0 +1,4 @@
+$ ./run.sh 26
+20 threads asked for the instance
+Constructor ran 1 time(s)
+s1 and s2 are the same object: True
